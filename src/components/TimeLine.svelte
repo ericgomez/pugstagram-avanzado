@@ -7,3 +7,9 @@
     <Card />
   </div>
 </div>
+
+<style>
+  .TimeLine {
+    padding: 4em 0 0 0;
+  }
+</style>
