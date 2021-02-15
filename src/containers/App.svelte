@@ -1,6 +1,5 @@
 <script>
-import { report } from 'process';
- 
+
   import { onMount } from 'svelte'
   import Header from '../components/Header.svelte'
   import Main from '../components/Main.svelte'
@@ -21,7 +20,7 @@ import { report } from 'process';
 
 <Main>
 
-  <TimeLine posts={data.post} />
+  <TimeLine posts={data.posts} />
   <Sidebar {...data.user} />
     
 </Main>
