@@ -2,7 +2,14 @@
 
 ---
 
-# Pugstagram - svelte app
+# Clases del Curso de Sapper
+#### Proyecto del curso
+
+![proyect](https://static.platzi.com/media/landing-projects/imagen-Proyecto-sapper2.gif)
+
+
+## Pugstagram Avanzado
+Usando Sapper optimizaremos la cantidad de código que enviamos al navegador de la aplicación Pugstagram, proyecto del Curso de Svelte.
 
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
